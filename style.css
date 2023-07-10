@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+.daily-prophet{
+    background-color: rgb(238, 228, 213);
+    width: 1300px;
+    margin: auto;
+    padding: 50px;
+}
+.paper-header{
+    background-image: url(img/paper-head.PNG);
+    height: 235px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.paper-sub-header{
+    background-image: url(img/paper-sub-head.PNG);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 120px;
+}
+.paper-content{
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    margin-top: 29px;
+    overflow: hidden;
+}
+.first-article{
+    padding: 10px;
+}
+.first-article-title{
+    text-align: center;
+    font-size: 85px;
+    font-family: 'Berkshire Swash', cursive;
+}
+.first-article-img{
+    float: right;
+}
+.second-article-title{
+    text-align: center;
+    font-family: 'Berkshire Swash', cursive;
+}
+.second-article-text{
+    font-family: 'Henny Penny', cursive;
+    float: left;
+    width: 30%;
+    margin: 1%;
+}
+.first-article-text{
+    font-family: 'Henny Penny', cursive;
+    line-height: 40px;  
+}
+
+
